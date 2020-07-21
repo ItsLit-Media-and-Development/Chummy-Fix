@@ -2,7 +2,6 @@
 {
     internal class ModConfig
     {
-        public int Roe { get; set; } = 50;
         public int Amethyst { get; set; } = 50;
         public int Diamond { get; set; } = 50;
         public int Quartz { get; set; } = 50;
@@ -48,5 +47,11 @@
         public int Slime { get; set; } = 50;
         public int Solar_Essence { get; set; } = 50;
         public int Void_Essence { get; set; } = 50;
+        public int Mixed_Seeds { get; set; } = 50;
+        public int Pearl { get; set; } = 50;
+        public int Cactus_Seeds { get; set; } = 50;
+        public int Roe { get; set; } = 50;
+        public int Squid_Ink { get; set; } = 50;
+        public bool SuppressLog { get; set; } = true;
     }
 }

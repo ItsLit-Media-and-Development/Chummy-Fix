@@ -1,7 +1,7 @@
 ﻿{
   "Name": "Chummy Fix",
   "Author": "ItsLittany",
-  "Version": "0.0.1",
+  "Version": "1.0.0",
   "Description": "Fix the odds of your pond's chum bucket",
   "UniqueID": "itslittany.ChummyFix",
   "EntryDll": "Chummy Fix.dll",
